@@ -1,0 +1,46 @@
+
+.container-fluid{
+    padding-top: 90px;
+    background-color: black;
+}
+.Banner-image{
+          padding-top: 90px;
+          padding-left: 500px;
+       text-align: center;   
+     
+       background-size: cover;
+       height:900px;
+       width: 400px;
+}
+ .Banner-content{
+         padding-top: 90px;
+        position: relative;   
+                text-align: center;   
+        overflow:hidden;   
+        margin-bottom: 12%; 
+        max-width: 660px; 
+          color: white;
+    
+}
+.thumbnail img{
+    height:150px;
+    width:50%;
+
+}
+.cont{
+    padding-bottom: 100px;
+}
+.footer {
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+p,h1{
+    color:white;
+}
+.navbar-brand{
+    color:black;
+}
+                     
